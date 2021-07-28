@@ -1,0 +1,22 @@
+/* Universal text forto unify all text to be the same */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: skyblue;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.subtext p{
+    font-size: 12px;
+}
+
+
+.fricksLogo {
+    text-align: center;
+    border: 15px solid black;
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    margin: 19px;
+    padding: 20px;
+}
